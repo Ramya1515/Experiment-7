@@ -1,3 +1,7 @@
+# EXPERIMENT 7
+
+## Preprocessing Pipeline: Imputation, One-Hot Encoding and Scaling
+
 ## AIM:
 
 Build a ColumnTransformer pipeline to preprocess numeric and categorical features safely.
